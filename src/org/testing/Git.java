@@ -5,6 +5,7 @@ public class Git {
 System.out.println("Output here");
 }
  private void method2() {
-System.out.println("output 2");
+System.out.println("output 2,3");
+System.out.println("kumar added");
 }
 }
